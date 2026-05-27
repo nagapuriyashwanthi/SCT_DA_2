@@ -33,3 +33,7 @@ SkillCraft Technology.
 - Company: SkillCraft Technology
 - Track: Data Analyst
 - Task: 02
+
+## 🔗 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/nagapuri-yashwanthi-952350381/
+- GitHub: https://github.com/nagapuriyashwanthi
